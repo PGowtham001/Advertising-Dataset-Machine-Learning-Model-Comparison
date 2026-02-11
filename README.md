@@ -1,4 +1,4 @@
-# 📊 Advertising Dataset – Machine Learning Model Comparison
+#  Advertising Dataset – Machine Learning Model Comparison
 
 This repository demonstrates a **comparative analysis of multiple machine learning classifiers**
 applied to an Advertising dataset.
@@ -7,7 +7,7 @@ The project emphasizes **understanding model behavior**, not just achieving high
 
 ---
 
-## 🚀 Models Implemented
+##  Models Implemented
 
 - Logistic Regression
 - Decision Tree
@@ -18,7 +18,7 @@ The project emphasizes **understanding model behavior**, not just achieving high
 
 ---
 
-## 🧠 Key Learning Objectives
+##  Key Learning Objectives
 
 - Compare linear vs non-linear classifiers
 - Visualize decision boundaries using PCA
@@ -26,6 +26,4 @@ The project emphasizes **understanding model behavior**, not just achieving high
 - Interpret confusion matrices effectively
 
 ---
-
-## 📂 Project Structure
 
